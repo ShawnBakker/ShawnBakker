@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @ShawnBakker
-- 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning at the UO, specifically CIS courses
-- 💞️ I’m looking to collaborate on (unsure)
-- 📫 How to reach me: email - shawnb@uoregon.edu
+- 👋 I’m @ShawnBakker
+- 👀 I’m interested in Cybersecurity, Software Engineering, and Full Stack Development
+- 🌱 I’m currently learning at the UO, majoring in CS and minoring in Business
+- 📫 Contact => shawnb@uoregon.edu
 
 <!---
 ShawnBakker/ShawnBakker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
