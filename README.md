@@ -1,5 +1,5 @@
 - 👋 I’m @ShawnBakker
-- 👀 I’m interested in Cybersecurity, Software Engineering, and Full Stack Development
+- 👀 I’m interested in AI Development, Software Engineering and Full Stack Development
 - 🌱 I’m currently learning at the UO, majoring in CS and minoring in Business
 - 📫 Contact => shawnb@uoregon.edu
 
