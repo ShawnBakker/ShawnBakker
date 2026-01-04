@@ -1,7 +1,7 @@
 - 👋 I’m @ShawnBakker
-- 👀 I’m interested in AI Development, Software Engineering and Full Stack Development
-- 🌱 I’m currently learning at the UO, majoring in CS and minoring in Business
-- 📫 Contact => shawnb@uoregon.edu
+- 👀 I’m interested in AI Development, Software Engineering and Cybersecurity 
+- 🌱 B.S. in Computer Science -- Minor in Business
+- 📫 Contact => shawnb@misclick.com
 
 <!---
 ShawnBakker/ShawnBakker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
